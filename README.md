@@ -78,8 +78,8 @@ This patch optimizes several Z2 functions to significantly reduce CPU usage and 
 ## Special Thanks & Credits
 
 Special thanks to the creators of:
-* **Z22: The Adventure of Link and Lonk** *(Zelda 2 co-op)*
-* **The Legend of Zelda: Z for 2** *(Zelda 1 co-op — tons of fun, highly recommended)*
+* **[Z22: The Adventure of Link and Lonk](https://www.romhacking.net/hacks/5243/)** *(Zelda 2 co-op)*
+* **[The Legend of Zelda: Z for 2](https://www.romhacking.net/hacks/9882/)** *(Zelda 1 co-op — tons of fun, highly recommended)*
 
 Those ROM hacks were a blast! *Z22* got me started and helped me realize what more I wanted to improve upon. I started by fixing an issue with *Z22* that corrupted `.sav` RAM and made it impossible to get the Water of Life, which eventually grew into this much larger project. Playing through *Z for 2* with my son also showed me how much fun these older Zelda games are when both players are equal partners. Now *Zelda II*, the black sheep of the Zelda series, gets similar multiplayer treatment — and my son and I have had a great time playing through this completed romack as well.
 
@@ -87,5 +87,5 @@ Those ROM hacks were a blast! *Z22* got me started and helped me realize what mo
 Also indispensable to the creation of this hack:
 * **[z2disassembly](https://github.com/FiendsOfTheElements/z2disassembly)** — 99.99% of the disassembly work was done for me here.
 * **[Data Crystal](https://datacrystal.tcrf.net/wiki/Zelda_II:_The_Adventure_of_Link)** — Invaluable ROM and RAM documentation.
-* **ChatGPT** — Amazing how quickly and accurately it implements ASM, works around space constraints, tracks down bugs, and more.
-* **MesenCE** — The debugger is incredible!
+* **[ChatGPT](https://www.chatgpt.com)** — Amazing how quickly and accurately it implements ASM, works around space constraints, tracks down bugs, and more.
+* **[MesenCE](https://github.com/nesdev-org/MesenCE)** — The debugger is incredible!
