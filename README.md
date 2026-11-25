@@ -7,7 +7,7 @@
 
 If you notice any bugs, I would like to try to reproduce and fix them. Please report them on the [GitHub Issues page](https://github.com/pharmville/Zelda2-nes-2player-patch/issues).
 
-My goal is a ROM hack that will work on real hardware, but I no longer have an NES or flashcart to test with. If you run into a problem on real hardware, please report it at the link above.
+My goal is a ROM hack that will work on real hardware, but I no longer have a NES or flashcart to test with. If you run into a problem on real hardware, please report it at the link above.
 
 For the best experience in your emulator (tested in **MesenCE** and **FCE Ultra**), enable the following (hardware-inaccurate) improvements:
 * **Remove sprite limit:** Removes sprite flickering
