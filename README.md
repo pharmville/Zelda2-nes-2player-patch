@@ -1,7 +1,7 @@
 # AOL for 2 - The Adventure of 2 Links
 
 > [!TIP]
-> **TL;DR:** To enable Player 2, press **Select** on Controller 2 while the spell screen is open (open the spell screen by pressing **Start** on either controller). To save the game at any time, press **Up + A** on Controller 1 while on the spell menu.
+> **TL;DR:** To enable Player 2, press **Select** on Controller 2 while the spell screen is open (open the spell screen by pressing **Start** on either controller). To save the game at any time, press **Up + A** on Controller 1 while the spell menu is open.
 
 ## Notice
 
