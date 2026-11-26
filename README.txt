@@ -28,7 +28,7 @@ Future plans:
 
 This hack is feature-complete according to my tastes. Future improvments will probably be looking for ways to speed it up, so it isn't as laggy. Also fixing any remaining bugs as they are found.
 
-Integreated patches:
+Integrated patches:
 
 Other romhacks that are integrated into AOL for 2 are listed below, along with their links and descriptions.
 
